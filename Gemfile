@@ -16,4 +16,5 @@ gemspec
 group :test do
   gem 'nokogiri'
   gem 'rake'
+  gem 'rspec'
 end

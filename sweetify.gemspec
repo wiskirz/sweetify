@@ -4,7 +4,7 @@ require 'sweetify/version'
 Gem::Specification.new do |s|
   s.name        = 'sweetify'
   s.version     = Sweetify::VERSION
-  s.authors     = ['Atrox']
+  s.authors     = ['Atrox', 'wiskirz']
   s.email       = ['mail@atrox.me']
   s.homepage    = 'https://github.com/atrox/sweetify'
   s.summary     = 'SweetAlert integrated in Ruby on Rails'
