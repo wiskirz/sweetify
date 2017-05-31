@@ -2,7 +2,7 @@
 
 [![Gem](https://img.shields.io/gem/v/sweetify.svg?style=flat-square)](https://rubygems.org/gems/sweetify) 
 [![Build 
-Status](https://travis-ci.org/wiskirz/sweetify.png)](https://travis-ci.org/wiskirz/sweetify)
+Status](https://travis-ci.org/wiskirz/sweetify.svg?branch=master)](https://travis-ci.org/wiskirz/sweetify)
 
 This gem allows you to use [SweetAlert](http://t4t5.github.io/sweetalert/) for your 
 flash messages. _See the examples below, to see how to use it_
