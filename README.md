@@ -20,7 +20,7 @@ And then execute:
 
 Add this line to your application.scss
 
-```scss @import 'sweetalert'; ```
+```css @import 'sweetalert'; ```
 
 
 Add this line to your application.js:
