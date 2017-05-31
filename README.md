@@ -10,17 +10,22 @@ _See the examples below, to see how to use it_
 
 Add this line to your application's Gemfile:
 
-```ruby gem 'sweetify' ```
-
+```ruby
+gem 'sweetify'
+```
 
 And then execute:
 
-```bash $ bundle ```
+```bash
+$ bundle
+```
 
 
 Add this line to your application.scss
 
-```css @import 'sweetalert'; ```
+```css
+@import 'sweetalert';
+```
 
 
 Add this line to your application.js:
